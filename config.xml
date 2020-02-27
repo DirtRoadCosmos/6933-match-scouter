@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    id          = "org.archytas.pit-scouter"
+    version     = "1.0.0" >
+
+  <name>6933 Match Scouter</name>
+
+  <description>
+      Match souting data collector for FIRST Robotics team 6933.
+  </description>
+
+  <author href="https://www.archytas.org" email="archytas6933dev@gmail.com">
+      Archytas Scouting Squad
+  </author>
+
+</widget>
